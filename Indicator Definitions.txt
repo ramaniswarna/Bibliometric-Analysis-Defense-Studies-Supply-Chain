@@ -1,0 +1,69 @@
+Publications
+Publications is the number of publications related to the search.
+
+The analytical view shows the total number of related publications. The values per year are the years in which the publications were published.
+
+less
+Citations
+Publication citations is the number of times that a publication has been cited by other publications in the database. Citing publications can be of any publication type, such as articles, chapters, preprints, or monographs.
+
+The analytical view provides the following options to aggregate citations:
+
+Total (default)
+Mean
+Median
+The values per year are the citations received in each year.
+
+less
+Publications with citations
+Publications with citations is the number of publications with at least x citations or publications which have not been cited yet.
+
+The analytical view provides the following options to aggregate publications with citations:
+
+Total
+Percentage (default)
+Available citation thresholds are:
+
+0 citations
+≥1 citations (default)
+≥10 citations
+≥25 citations
+≥50 citations
+≥100 citations
+≥500 citations
+The values per year are the years in which the publications were published.
+
+less
+Field Citation Ratio (FCR)
+The Field Citation Ratio (FCR) indicates the relative citation performance of a publication when compared to similarly-aged articles in its subject area. A value of more than 1.0-1.5 indicates higher than average citation, when defined by FoR subject code, and publication year. The FCR is calculated for all publications in Dimensions which are at least 2 years old and were published in 2000 or later.
+
+The analytical view shows the geometric mean FCR which reduces the effect of outlier publications with extreme citation rates. The values per year are the years in which the publications were published.
+
+Note: the global average FCR is higher than one in earlier years. Therefore, comparing FCR across years may not be reliable.
+
+less
+Relative Citation Ratio (RCR)
+The Relative Citation Ratio (RCR) indicates the relative citation performance of a publication when comparing its citation rate to that of other publications in its area of research. A value of more than 1.0 shows a citation rate above average. The article’s area of research is defined by the articles that have been cited alongside it. The RCR is calculated for all PubMed publications which are at least 2 years old.
+
+The analytical view shows the arithmetic mean Relative Citation Ratio (RCR). The values per year are the years in which the publications were published.
+
+less
+Recent citations
+The recent citations value is the number of citations that were received in the last two years. It is reset at the beginning of each calendar year.
+
+Altmetric Attention Score
+The Altmetric Attention Score is a weighted count of all of the online attention Altmetric have found for an individual research output. This includes mentions in public policy documents and references in Wikipedia, mainstream news, social networks, blogs and more.
+
+The analytical view provides the following options to aggregate the Altmetric Attention Score:
+
+Mean
+Median (default)
+less
+Publications with attention
+Publications with attention is the number of publications with Altmetric attention.
+
+The analytical view the percentage of publications with attention. The values per year are the years in which the publications were published.
+
+Mean
+Median (default)
+less
